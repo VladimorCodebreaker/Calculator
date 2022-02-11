@@ -4,12 +4,19 @@ Calculator - Internship - from 10th to 12th of february - "Maison Random Interns
 &color=autoA calculator made with React, JS, CSS, HTML.
 
 🧊 Features: 
+
 💧 Addition
+
 💧 Subtraction
+
 💧 Division
+
 💧 Multiplication
+
 💧 Clear
+
 💧 Calculate percentage
+
 💧 Change sign +/- n
 
 🧊 Structure:
