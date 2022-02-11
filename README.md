@@ -1,7 +1,7 @@
 # Calculator
 Calculator - Internship - from 10th to 12th of february - "Maison Random Internship"
 
-&color=autoA calculator made with React, JS, CSS, HTML.
+A calculator made with React. (JS, CSS, HTML)
 
 🧊 Features: 
 
@@ -20,6 +20,7 @@ Calculator - Internship - from 10th to 12th of february - "Maison Random Interns
 💧 Change sign +/- n
 
 🧊 Structure:
+
 For this I used a nested HTML structure which I designed in a seperate CSS file. The picture below visualizes it.
 
 ![Calculator Structure Complete](https://user-images.githubusercontent.com/91912841/153583025-7a177dfa-0c23-477f-b520-2ce775ea9cf6.jpg)
