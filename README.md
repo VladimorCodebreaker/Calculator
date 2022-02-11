@@ -1,7 +1,7 @@
 # Calculator
 Calculator - Internship - from 10th to 12th of february - "Maison Random Internship"
 
-![#f03c15]A calculator made with React, JS, CSS, HTML. '#1589F0'
+&color=autoA calculator made with React, JS, CSS, HTML.
 
 🧊 Features: 
 💧 Addition
