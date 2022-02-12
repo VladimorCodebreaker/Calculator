@@ -74,6 +74,5 @@ resetClickHandler - Clears everything by resetting the values.
 
 Down all those instructions you can see the HTML structure. If you don't understand it, look at the picture for a better visualization. Hopefully it helps. :)
 
-![image](https://user-images.githubusercontent.com/91912841/153725268-18613b01-4a58-4e5d-804a-42d4b5430c3f.png)
 
 🟥NOTE: THIS PROJECT WAS MADE WITHOUT PRIOR KNOWLEDGE OF REACT AND JAVASCRIPT!!! 
