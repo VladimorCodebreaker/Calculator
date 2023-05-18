@@ -70,9 +70,3 @@ percentClickHandler - Let's you calculate the percentage.
 resetClickHandler - Clears everything by resetting the values.
 
 --------------------------------------------------------------------------------------------------------------
-
-
-Down all those instructions you can see the HTML structure. If you don't understand it, look at the picture for a better visualization. Hopefully it helps. :)
-
-
-🟥NOTE: THIS PROJECT WAS MADE WITHOUT PRIOR KNOWLEDGE OF REACT AND JAVASCRIPT!!!🟥
