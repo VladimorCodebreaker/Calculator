@@ -1,5 +1,4 @@
 # Calculator
-Calculator - Internship - from 10th to 12th of february - "Maison Random Internship"
 
 A calculator made with React. (JS, CSS, HTML)
 
